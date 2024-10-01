@@ -197,7 +197,9 @@
 - [React: fundamentos hasta Full-stack!](https://www.udemy.com/react-fundamentos-hasta-full-stack/)
 - [Make it Real: Curso básico de React](https://www.youtube.com/playlist?list=PLxyfMWnjW2kssQROHucUJiRfW0FUhcVzN)
 - [Make it Real: Curso avanzado de React (Redux y Testing)](https://www.youtube.com/playlist?list=PLxyfMWnjW2kuyePV1Gzn5W_gr3BGIZq8G)
+- [MiduDev: Curso de React] (https://cursoreact.dev/) 
 
 ## Libros
 
 - [Descubre React - Javi Jimenez](https://leanpub.com/descubre-react)
+- [Apendiendo React - Carlos Azaustre](https://leanpub.com/cazaustre-react)
